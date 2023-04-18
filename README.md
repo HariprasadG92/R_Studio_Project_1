@@ -1,5 +1,5 @@
 # R_Studio_Projects
-In this R studio projects repository, I have done projects upon web scraping, web scraping, data visualisation. 
+In this R studio projects repository, I have done projects upon web scraping, data visualisation. 
 
 In the Web Scraping project, I did "The numbers" website which as the list hollywood movies and their financial data analysis in which i have scraped the Movies With Lowest Budgets to Earn $1 Million at US Box Office and stored it in the movies.csv file.
 
