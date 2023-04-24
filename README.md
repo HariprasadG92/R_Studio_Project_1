@@ -5,4 +5,4 @@ In the Web Scraping project, I did "The numbers" website which as the list holly
 
 In the Data Visualisation project, I visualised the dataset in movies.csv. I visualised the World wide Gross Production of all the mmovies listed in the dataset using bar graph.
 
-In the Simple Linear Regression, I took a data set of Diabetes prediction dat and considered two data sets age and BMI and combine both into one data frame. Next I split the data set into test set and training set then applied regression on both dataset and visualised the results between the age and BMI.
+In the Simple Linear Regression, I took a data set of Diabetes prediction data and considered two data sets age and BMI . Next I split the data set into test set and training set then applied regression on both dataset and visualised the results between the age and BMI.
