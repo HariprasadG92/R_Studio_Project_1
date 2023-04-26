@@ -1,5 +1,5 @@
 # R_Studio_Projects
-In this R studio projects repository, I have done projects upon web scraping, data visualisation, Simple Linear Regression, Multi Linear Regression 
+In this R studio projects repository, I have done projects upon web scraping, data visualisation, Simple Linear Regression and Multi Linear Regression 
 
 1) Web Scraping project: I have taken datasets from the webite "The numbers" (https://www.the-numbers.com/) which as the list hollywood movies and their financial data analysis in which i have scraped the Movies With Lowest Budgets to Earn $1 Million at US Box Office and stored it in the movies.csv file.
 
